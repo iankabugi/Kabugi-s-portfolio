@@ -11,9 +11,15 @@ img{
   border: 2px solid black;
   padding: 4px;
   margin: 10px;
-  background-color: violet;
+  background-color: grey;
   /*float: right;*/
 }
 body{
   line-height:40px;
+  
+  background-color: #cccccc;
+  background-size: cover;
+}
+.imgproj{
+  background-image: url("images/skills.jpg");
 }
