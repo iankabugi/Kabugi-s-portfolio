@@ -1,6 +1,7 @@
 h1{
   font-weight: bolder;
   text-align: center;
+  background-color: grey;
 }
 img{
   width: 150px;
@@ -12,4 +13,7 @@ img{
   margin: 10px;
   background-color: violet;
   /*float: right;*/
+}
+body{
+  line-height:40px;
 }
