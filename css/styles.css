@@ -8,6 +8,7 @@ html{
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
+  text-decoration-color: violet;
 }
 img{
   width: 150px;
@@ -22,6 +23,7 @@ img{
 body{
   line-height:40px;
   background-size: cover;
+  text-decoration-color: violet;
 }
 .imgproj{
   background-image: url("images/skills.jpg");
