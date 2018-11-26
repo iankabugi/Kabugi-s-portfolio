@@ -16,7 +16,7 @@ img{
 }
 body{
   line-height:40px;
-  
+  background-image: url("cover.jpg");
   background-color: #cccccc;
   background-size: cover;
 }
