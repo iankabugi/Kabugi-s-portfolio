@@ -1,5 +1,15 @@
 h1{
   font-weight: bolder;
   text-align: center;
+}
+.boxed {
+  border: 2px solid lack;
+  padding: 4px;
+  margin: 10px;
+  background-color: violet;
+  float: left;
+}
 
+.header_links{
+  text-align: justify;
 }
