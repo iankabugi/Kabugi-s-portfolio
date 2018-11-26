@@ -1,23 +1,26 @@
 h1{
   font-weight: bolder;
   text-align: center;
-  background-color: grey;
+  color: violet;
+}
+html{
+  background-image: url(https://macwiki.net/wp-content/uploads/2018/02/backlit-keyboard-640x416.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 img{
   width: 150px;
   length: auto;
 }
 .boxed {
-  border: 2px solid black;
+  border: 2px solid grey;
   padding: 4px;
   margin: 10px;
-  background-color: grey;
-  /*float: right;*/
+
 }
 body{
   line-height:40px;
-  background-image: url("cover.jpg");
-  background-color: #cccccc;
   background-size: cover;
 }
 .imgproj{
